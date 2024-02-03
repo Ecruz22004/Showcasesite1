@@ -29,33 +29,70 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Skeleton</strong>
+				<img src="src/lib/assets/ahflogos5.png" alt="Asian Hall of Fame Logo">
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
-					class="btn btn-sm variant-ghost-surface"
+					class="no-underline hover:underline"
 					href="https://discord.gg/EXqV7W8MtY"
 					target="_blank"
 					rel="noreferrer"
 				>
-					Discord
+					HOME
 				</a>
 				<a
-					class="btn btn-sm variant-ghost-surface"
+				    class="no-underline hover:underline"
 					href="https://twitter.com/SkeletonUI"
 					target="_blank"
 					rel="noreferrer"
 				>
-					Twitter
+					INDUCTEES
 				</a>
 				<a
-					class="btn btn-sm variant-ghost-surface"
+					class="no-underline hover:underline"
+					href="https://discord.gg/EXqV7W8MtY"
+					target="_blank"
+					rel="noreferrer"
+				>
+					EVENTS
+				</a>
+				<a
+				class="no-underline hover:underline"
+				href="https://discord.gg/EXqV7W8MtY"
+				target="_blank"
+				rel="noreferrer"
+			    >
+				MEDIA
+			    </a>
+				<a
+				    class="no-underline hover:underline"
 					href="https://github.com/skeletonlabs/skeleton"
 					target="_blank"
 					rel="noreferrer"
 				>
-					GitHub
+				DONATE
 				</a>
+				<a
+				class="no-underline hover:underline"
+				href="https://discord.gg/EXqV7W8MtY"
+				target="_blank"
+				rel="noreferrer"
+			    >
+				IMPACT
+			    </a>
+				<a
+				class="no-underline hover:underline"
+				href="https://discord.gg/EXqV7W8MtY"
+				target="_blank"
+				rel="noreferrer"
+			    >
+				ABOUT
+			    </a>
+				<img src="src/lib/assets/insta.png" alt="facebook">
+				<img src="src/lib/assets/twitter-16.png" alt="facebook">
+				<img src="src/lib/assets/facebook-16.png" alt="facebook">
+				<img src="src/lib/assets/youtube.png" alt="facebook">
+				<img src="src/lib/assets/linkedin-16.png" alt="facebook">
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>

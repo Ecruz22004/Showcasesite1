@@ -2,26 +2,35 @@ import { join } from 'path'
 import type { Config } from 'tailwindcss'
 import forms from '@tailwindcss/forms';
 import typography from '@tailwindcss/typography';
-import { skeleton } from '@skeletonlabs/tw-plugin'
+import { skeleton } from '@skeletonlabs/tw-plugin';
+import { myCustomTheme } from './ahftheme.ts'
 
 export default {
 	darkMode: 'class',
 	content: ['./src/**/*.{html,js,svelte,ts}', join(require.resolve('@skeletonlabs/skeleton'), '../**/*.{html,js,svelte,ts}')],
 	theme: {
-		extend: {},
+		extend: {
+			animation: {
+				'infinite-scroll': 'infinite-scroll 150s linear infinite',
+			  },
+			  keyframes: {
+				'infinite-scroll': {
+				  from: { transform: 'translateX(0)' },
+				  to: { transform: 'translateX(-100%)' },
+				}
+			  }
+		},
 	},
-	plugins: [
-		forms,
-		typography,
-		skeleton({
-			themes: {
-				preset: [
-					{
-						name: 'skeleton',
-						enhancements: true,
-					},
-				],
-			},
-		}),
-	],
-} satisfies Config;
+plugins: [
+	forms,
+	typography,
+	skeleton({
+		themes: {
+			custom: [
+				myCustomTheme
+			]
+			
+		}
+	})
+]
+}satisfies Config;
