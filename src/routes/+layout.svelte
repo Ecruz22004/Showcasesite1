@@ -29,7 +29,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<img src="/ahflogos5.png">
+				<img src="/logos/ahflogos5.png" alt="logo">
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
@@ -88,11 +88,11 @@
 			    >
 				ABOUT
 			    </a>
-				<img src="/insta.png" alt="facebook">
-				<img src="/twitter-16.png" alt="facebook">
-				<img src="/facebook-16.png" alt="facebook">
-				<img src="/youtube.png" alt="facebook">
-				<img src="/linkedin-16.png" alt="facebook">
+				<img src="/logos/insta.png" alt="facebook">
+				<img src="/logos/twitter-16.png" alt="facebook">
+				<img src="/logos/facebook-16.png" alt="facebook">
+				<img src="/logos/youtube.png" alt="facebook">
+				<img src="/logos/linkedin-16.png" alt="facebook">
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>
