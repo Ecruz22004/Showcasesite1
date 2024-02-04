@@ -88,11 +88,11 @@
 			    >
 				ABOUT
 			    </a>
-				<img src="src/lib/assets/insta.png" alt="facebook">
-				<img src="src/lib/assets/twitter-16.png" alt="facebook">
-				<img src="src/lib/assets/facebook-16.png" alt="facebook">
-				<img src="src/lib/assets/youtube.png" alt="facebook">
-				<img src="src/lib/assets/linkedin-16.png" alt="facebook">
+				<img src="/insta.png" alt="facebook">
+				<img src="/twitter-16.png" alt="facebook">
+				<img src="/facebook-16.png" alt="facebook">
+				<img src="/youtube.png" alt="facebook">
+				<img src="/linkedin-16.png" alt="facebook">
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>
