@@ -29,7 +29,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<img src="%sveltekit.assets%/ahflogos5.png" alt="Asian Hall of Fame Logo">
+				<image href="%sveltekit.assets%/ahflogos5.png" >
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
