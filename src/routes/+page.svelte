@@ -10,7 +10,7 @@
 				class="fill-token -scale-x-[100%]"
 				xmlns="http://www.w3.org/2000/svg"
 			>
-			<img src="/anni6.png" alt="logo">
+			<img src="/logos/anni6.png" alt="logo">
 			</svg>
 		</figure>
 		<!-- / -->
@@ -25,70 +25,70 @@
 
 		<ul class="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll" aria-hidden="true">
 			<li>
-				<img src="/ahf1.jpg" alt="Facebook" />
+				<img src="/images/ahf1.jpg" alt="Facebook" />
 			</li>
 			<li>
-				<img src="/ahf2.jpg" alt="Disney" />
+				<img src="/images/ahf2.jpg" alt="Disney" />
 			</li>
 			<li>
-				<img src="/ahf3.jpg" alt="Airbnb" />
+				<img src="/images/ahf3.jpg" alt="Airbnb" />
 			</li>
 			<li>
-				<img src="/ahf4.jpg" alt="Apple" />
+				<img src="/images/ahf4.jpg" alt="Apple" />
 			</li>
 			<li>
-				<img src="/ahf5.jpg" alt="Apple" />
+				<img src="/images/ahf5.jpg" alt="Apple" />
 			</li>
 			<li>
-				<img src="/ahf6.jpg" alt="Spark" />
+				<img src="/images/ahf6.jpg" alt="Spark" />
 			</li>
 			<li>
-				<img src="/ahf7.jpg" alt="Samsung" />
+				<img src="/images/ahf7.jpg" alt="Samsung" />
 			</li>
 			<li>
-				<img src="/ahf8.jpg" alt="Quora" />
+				<img src="/images/ahf8.jpg" alt="Quora" />
 			</li>
 			<li>
-				<img src="/ahf9.jpg" alt="Sass" />
+				<img src="/images/ahf9.jpg" alt="Sass" />
 			</li>
 			<li>
-				<img src="/ahf10.jpg" alt="Facebook" />
+				<img src="/images/ahf10.jpg" alt="Facebook" />
 			</li>
 			<li>
-				<img src="/ahf11.jpg" alt="Facebook" />
+				<img src="/images/ahf11.jpg" alt="Facebook" />
 			</li>
 			<li>
-				<img src="/ahf12.jpg" alt="Disney" />
+				<img src="/images/ahf12.jpg" alt="Disney" />
 			</li>
 			<li>
-				<img src="/ahf13.jpg" alt="Airbnb" />
+				<img src="/images/ahf13.jpg" alt="Airbnb" />
 			</li>
 			<li>
-				<img src="/ahf14.jpg" alt="Apple" />
+				<img src="/images/ahf14.jpg" alt="Apple" />
 			</li>
 			<li>
-				<img src="/ahf15.jpg" alt="Spark" />
+				<img src="/images/ahf15.jpg" alt="Spark" />
 			</li>
 			<li>
-				<img src="/ahf16.jpg" alt="Samsung" />
+				<img src="/images/ahf16.jpg" alt="Samsung" />
 			</li>
 			<li>
-				<img src="/ahf17.jpg" alt="Quora" />
+				<img src="/images/ahf17.jpg" alt="Quora" />
 			</li>
 			<li>
-				<img src="/ahf18.jpg" alt="Sass" />
+				<img src="/images/ahf18.jpg" alt="Sass" />
 			</li>
 			<li>
-				<img src="/ahf19.jpg" alt="Facebook" />
+				<img src="/images/ahf19.jpg" alt="Facebook" />
 			</li>
 			<li>
-				<img src="/ahf20.jpg" alt="Facebook" />
+				<img src="/images/ahf20.jpg" alt="Facebook" />
 			</li>
 			<li>
-				<img src="/ahf21.jpg" alt="Disney" />
+				<img src="/images/ahf21.jpg" alt="Disney" />
 			</li>
 			<li>
-				<img src="/ahf22.jpg" alt="Airbnb" />
+				<img src="/images/ahf22.jpg" alt="Airbnb" />
 			</li>
 		</ul>            
 	</div>
