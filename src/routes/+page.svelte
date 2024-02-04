@@ -10,7 +10,7 @@
 				class="fill-token -scale-x-[100%]"
 				xmlns="http://www.w3.org/2000/svg"
 			>
-			<img src="/logos/anni6.png" alt="logo">
+			<image href="/logos/anni6.png">
 			</svg>
 		</figure>
 		<!-- / -->
