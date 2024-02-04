@@ -25,10 +25,18 @@
 
 		<ul class="flex items-center  justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll" aria-hidden="true">
 			<li>
-				<image href="/images/ahf1.jpg" />
+				<svg
+				class="fill-token -scale-x-[100%]"
+				>
+				    <image href="/images/ahf1.jpg" />
+				</svg>
 			</li>
 			<li>
-				<img src="/images/ahf2.jpg" alt="Disney" />
+				<svg
+				class="fill-token -scale-x-[100%]"
+				>
+				    <image href="/images/ahf2.jpg" />
+				</svg>
 			</li>
 			<li>
 				<img src="/images/ahf3.jpg" alt="Airbnb" />
