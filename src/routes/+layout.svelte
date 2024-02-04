@@ -29,7 +29,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<image href="%sveltekit.assets%/ahflogos5.png" >
+				<img src="/ahflogos5.png">
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
