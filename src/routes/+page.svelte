@@ -119,6 +119,7 @@
 				</ul>            
 			</div>
 		</div>
+	</main>
 </div>
 
 
