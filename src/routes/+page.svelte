@@ -45,12 +45,14 @@
 			philanthropic impact since 2020.</p>
 		</div>
 	</div>
-    <main class="relative min-h-screen inline-block flex-col justify-center overflow-hidden">
+    <main class="relative min-h-screen flex flex-col justify-center overflow-hidden">
         <div class="w-full max-w-5xl mx-auto px-4 md:px-6 py-24">
-		    <div class="w-full inline-block flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]">
+		    <div class="w-full inline-flex flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]">
 
 		    	<ul class="flex items-center  justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll" aria-hidden="true">
-
+					<li>
+						<img  src="{img1}" alt="Facebook" />
+					</li>
 					<li>
 						<img src="{img2}" alt="Disney" />
 					</li>
