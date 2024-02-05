@@ -1,6 +1,5 @@
-<!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 <script>
-	    const images = import.meta.glob('$lib/*.jpg');
+    const images = import.meta.glob('./*.jpg');
     const imageUrls = Object.keys(images);
 </script>
 
@@ -32,7 +31,7 @@
 		    	<ul class="flex items-center justify-center md:justify-start animate-infinite-scroll" aria-hidden="true">
 					{#each imageUrls as img}
 					<li class="mx-8">
-						<img class="max-w-none" src={img} alt="Airbnb" />
+						<img class="max-w-none" src={img} alt="Celeb" />
 					</li>
 					{/each}
 				</ul>          
