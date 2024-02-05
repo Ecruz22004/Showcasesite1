@@ -34,7 +34,6 @@
 			<svelte:fragment slot="trail">
 				<a
 					class="no-underline hover:underline"
-					href="https://discord.gg/EXqV7W8MtY"
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -42,7 +41,6 @@
 				</a>
 				<a
 				    class="no-underline hover:underline"
-					href="https://twitter.com/SkeletonUI"
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -50,7 +48,6 @@
 				</a>
 				<a
 					class="no-underline hover:underline"
-					href="https://discord.gg/EXqV7W8MtY"
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -58,7 +55,6 @@
 				</a>
 				<a
 				class="no-underline hover:underline"
-				href="https://discord.gg/EXqV7W8MtY"
 				target="_blank"
 				rel="noreferrer"
 			    >
@@ -66,7 +62,6 @@
 			    </a>
 				<a
 				    class="no-underline hover:underline"
-					href="https://github.com/skeletonlabs/skeleton"
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -74,7 +69,6 @@
 				</a>
 				<a
 				class="no-underline hover:underline"
-				href="https://discord.gg/EXqV7W8MtY"
 				target="_blank"
 				rel="noreferrer"
 			    >
@@ -82,7 +76,6 @@
 			    </a>
 				<a
 				class="no-underline hover:underline"
-				href="https://discord.gg/EXqV7W8MtY"
 				target="_blank"
 				rel="noreferrer"
 			    >
