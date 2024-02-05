@@ -1,5 +1,5 @@
 <script>
-    const images = import.meta.glob('./*.jpg');
+    const images = import.meta.glob('/*.jpg');
     const imageUrls = Object.keys(images);
 </script>
 
