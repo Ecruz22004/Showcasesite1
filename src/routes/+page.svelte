@@ -1,6 +1,6 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 <script>
-	    const images = import.meta.glob('$lib/images/*.jpg');
+	    const images = import.meta.glob('$lib/*.jpg');
     const imageUrls = Object.keys(images);
 </script>
 
