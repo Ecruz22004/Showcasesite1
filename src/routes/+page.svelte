@@ -23,9 +23,9 @@
 	import img22 from '$lib/images/ahf22.jpg'
 </script>
 
-<div class="container h-full mx-auto flex justify-center items-center">
+<div class="container h-full mx-auto lg:flex sm:inline-block justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
-		<h2 class="h2">TRANSFORM</h2>
+		<h2 class="h2"><span class="gradient-heading">TRANSFORM</span></h2>
 		<!-- Animated Logo -->
 		<figure>
 			<section class="img-bg" />
@@ -33,7 +33,7 @@
 				class="fill-token -scale-x-[100%]"
 				xmlns="http://www.w3.org/2000/svg"
 			>
-			<image href="/anni6.png">
+			<image class="w-full sm:w-1/2 md:w-1/3 lg:w-full" href="/anni6.png">
 			</svg>
 		</figure>
 		<!-- / -->
@@ -49,6 +49,72 @@
 		    <div class="w-full inline-flex flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]">
 
 		    	<ul class="flex items-center justify-center md:justify-start animate-infinite-scroll" aria-hidden="true">
+					<li class="mx-8">
+						<img class="max-w-none" src={img1} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img2} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img3} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img4} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img5} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img6} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img7} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img8} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img9} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img10} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img11} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img12} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img13} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img14} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img15} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img16} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img17} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img18} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img19} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img20} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img21} alt="Celeb" />
+					</li>
+					<li class="mx-8">
+						<img class="max-w-none" src={img22} alt="Celeb" />
+					</li>
 					<li class="mx-8">
 						<img class="max-w-none" src={img1} alt="Celeb" />
 					</li>

@@ -11,7 +11,7 @@ export default {
 	theme: {
 		extend: {
 			animation: {
-				'infinite-scroll': 'infinite-scroll 150s linear infinite',
+				'infinite-scroll': 'infinite-scroll 225s linear infinite',
 			  },
 			  keyframes: {
 				'infinite-scroll': {
