@@ -38,10 +38,12 @@
 		</figure>
 		<!-- / -->
 		<div class=" justify-center space-x-2">
-			<p>Cultural, educational, and humanitarian charity that
-			transforms public perception of Asian and Indigenous
-			legacy with $1.7 million in community and
-			philanthropic impact since 2020.</p>
+			<p>This is an example site created for Asian Hall of Fame by RottenMangos. This site is seperate from and should not be confused for 
+				the non-profit Asian Hall of Fame. Below is a link to the official Asian Hall of Fame website.</p>
+				<a class="no-underline hover:underline"
+				target="_blank"
+				rel="noreferrer"
+				href="https://asianhalloffame.org">Link to the Official Asian Hall of Fame website</a>
 		</div>
 	</div>
     <main class="relative min-h-screen flex flex-col justify-center overflow-hidden">
