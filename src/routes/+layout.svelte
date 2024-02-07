@@ -33,11 +33,39 @@
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
-					class="no-underline hover:underline"
+					class="no-underline hover:underline "
 					target="_blank"
 					rel="noreferrer"
 				>
 					HOME
+				</a>
+				<a
+				    class="no-underline hover:underline hidden md:block"
+					target="_blank"
+					rel="noreferrer"
+				>
+					INDUCTEES
+				</a>
+				<a
+					class="no-underline hover:underline hidden md:block"
+					target="_blank"
+					rel="noreferrer"
+				>
+					EVENTS
+				</a>
+				<a
+				class="no-underline hover:underlin hidden md:block"
+				target="_blank"
+				rel="noreferrer"
+			    >
+				MEDIA
+			    </a>
+				<a
+				    class="no-underline hover:underline hidden md:block"
+					target="_blank"
+					rel="noreferrer"
+				>
+				DONATE
 				</a>
 				<a
 				class="no-underline hover:underline"
@@ -46,9 +74,18 @@
 			    >
 				IMPACT
 			    </a>
+				<a
+				class="no-underline hover:underline hidden md:block"
+				target="_blank"
+				rel="noreferrer"
+			    >
+				ABOUT
+			    </a>
 				<img src="/logos/insta.png" alt="facebook">
 				<img src="/logos/twitter-16.png" alt="facebook">
 				<img src="/logos/facebook-16.png" alt="facebook">
+				<img class="hidden md:block" src="/logos/youtube.png" alt="facebook">
+				<img class="hidden md:block"src="/logos/linkedin-16.png" alt="facebook">
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>
